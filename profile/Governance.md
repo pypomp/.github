@@ -9,6 +9,7 @@
 | Ed Ionides    | ionides    | 8/27/24   |          | founding member |
 | Jesse Wheeler | jeswheel   | 8/27/24   |          | founding member |
 | Jun Chen      | junch2002  | 8/27/24   |          | founding member | 
+| Bo Yang       | megumi-ybb | 10/22/24  |          |                 |
 
 The current maintainer is Ed Ionides.
 
