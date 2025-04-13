@@ -3,13 +3,14 @@
 
 **pypomp** is a collaborative organization, directed by its core development team. Core developers are as follows:
 
-| Name          | GitHub id  |Start date | End date | Comments        |
-| ------------- | ---------- | --------- | -------- | --------------- |
-| Kevin Tan     | hetankevin | 8/27/24   |          | founding member |
-| Ed Ionides    | ionides    | 8/27/24   |          | founding member |
-| Jesse Wheeler | jeswheel   | 8/27/24   |          | founding member |
-| Jun Chen      | junch2002  | 8/27/24   |          | founding member | 
-| Bo Yang       | megumi-ybb | 10/22/24  |          |                 |
+| Name            | GitHub id   |Start date | End date | Comments        |
+| --------------- | ----------- | --------- | -------- | --------------- |
+| Kevin Tan       | hetankevin  | 08/27/24  |          | founding member |
+| Ed Ionides      | ionides     | 08/27/24  |          | founding member |
+| Jesse Wheeler   | jeswheel    | 08/27/24  |          | founding member |
+| Jun Chen        | junch2002   | 08/27/24  |          | founding member | 
+| Bo Yang         | megumi-ybb  | 10/22/24  |          |                 |
+| Aaron Abkemeier | ajabkemeier | 03/19/25  |          |                 |
 
 The current maintainer is Ed Ionides.
 
