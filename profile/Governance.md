@@ -11,6 +11,8 @@
 | Jun Chen        | junch2002   | 08/27/24  |          | founding member | 
 | Bo Yang         | megumi-ybb  | 10/22/24  |          |                 |
 | Aaron Abkemeier | ajabkemeier | 03/19/25  |          |                 |
+| Aaron King      | kingaa      | 07/04/25  |          |                 |
+| Kunyang He      | kunyanghe21 | 07/04/25  |          |                 |
 
 The current PyPI maintainers are Aaron Abkemeier and Ed Ionides.
 
