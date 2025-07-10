@@ -30,7 +30,6 @@ OTHER COAUTHORS: If we agree on MEE as a target journal, it will be good to brin
 Aaron Abkemeier, Kevin Tan, [...], Ed Ionides.  
 NOTE: This is a provisional idea to develop a paper that AJA already has some work on. DPOP is not clearly worth a major theory paper (the theory is a fairly direct extension of DMOP) but maybe it could be included in a major applied stats paper? It has been a longstanding methodological challenge to fit POMP models with shared and unit-specific parameters to large datasets (100-1000 units, each with 100-1000 data points). R-panelPomp is not powerful enough for this, in practice. ADPF methods scale much better, not just because they're quicker per unit, but more critically because they avoid the dependence between units introduced by iterated filtering (or Bayesian methods) and so they entirely avoid the curse of dimensionality.  
 TARGET JOURNAL: AoAS -> PLOS Comp Bio. DPOP can also be partitioned out to JCGS or Statistics and Computing, but in that case the measles paper cannot go to AoAS.
-
 NOTE: Anybody else who ends up making large contributions to pypomp.panel or DPOP should be included in this paper (maybe, Jun or Kunyang?). Aaron could include anyone else who is helpful for getting the paper finished, e.g., Jesse? We have enough measles expertise not to require a scientific collaborator, but if AAK wants to join, he could contribute additional measles insights.
 
 
