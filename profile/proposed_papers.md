@@ -17,7 +17,7 @@ STATUS: in review
 Aaron Abkemeier, Jun Chen, Kevin Tan, Jesse Wheeler, Bo Yang, Kunyang He and Ed Ionides.  
 STATUS: AJA's draft thesis chapter is work in progress toward a software paper. The author order here is based on the assumption that AJA will continue to lead the code development and the paper writing, even though Jun led code development until April 2025.  
 NOTE: all core developers can be included in this. I've invited Aaron King to join, since pypomp borrows heavily from pomp so Aaron deserved recognition and he is in a strong position to give us good advice. Giles Hooker could join if he wants to, due to his role mentoring Kevin. We expect that Kunyang will join the core development team soon.  
-TARGET JOURNAL: J. Stat. Sofware
+TARGET JOURNAL: J. Stat. Software
 
 * **Fitting dynamic models to panel data via automatically differentiable particle filters: A mesocosm case study**.  
 Jun Chen, Bo Yang, Aaron Abkemeier, Kevin Tan, Kunyang He, [...], Ed Ionides.  
