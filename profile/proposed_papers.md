@@ -7,7 +7,7 @@
 
 * If you want to join a project, speak up! If you think the author order is wrong, speak up! If you want to take over the lead on a project that has stalled, speak up! That is the purpose of writing this down.
 
-* The main responsibility of the first author is to push the project through to publication. Kevin mentioned that some groups use a principle of "last touch gets first author" which is an interesting idea: if someone picks up a project and runs with it across the line, they get first position. This disincentivizes dropping the ball when you are currently in first position, which is good for the whole team! Of course, it is not okay to grab the ball from a team-mate and run off with it.
+* A responsibility of the first author is to stick with the project through to publication. Kevin mentioned that some groups use a principle of "last touch gets first author" which is an interesting idea: if someone picks up a project and runs with it across the line, they get first position. This disincentivizes dropping the ball when you are currently in first position, which is good for the whole team! Of course, it is not okay to grab the ball from a team-mate and run off with it.
 
 
 ## Working papers
