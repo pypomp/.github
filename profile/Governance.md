@@ -3,17 +3,18 @@
 
 **pypomp** is a collaborative organization, directed by its core development team. Core developers are as follows:
 
-| Name            | GitHub id   |Start date | End date | Comments        |
-| --------------- | ----------- | --------- | -------- | --------------- |
-| Kevin Tan       | hetankevin  | 08/27/24  |          | founding member |
-| Ed Ionides      | ionides     | 08/27/24  |          | founding member |
-| Jesse Wheeler   | jeswheel    | 08/27/24  |          | founding member |
-| Jun Chen        | junch2002   | 08/27/24  |          | founding member | 
-| Bo Yang         | megumi-ybb  | 10/22/24  |          |                 |
-| Aaron Abkemeier | ajabkemeier | 03/19/25  |          |                 |
-| Aaron King      | kingaa      | 07/04/25  |          |                 |
-| Kunyang He      | kunyanghe21 | 07/04/25  |          |                 |
-| Jonathan Terhorst | terhorst  | 08/19/25  |          |                 |
+| Name              | GitHub id   |Start date | End date | Comments        |
+| ----------------- | ----------- | --------- | -------- | --------------- |
+| Kevin Tan         | hetankevin  | 08/27/24  |          | founding member |
+| Ed Ionides        | ionides     | 08/27/24  |          | founding member |
+| Jesse Wheeler     | jeswheel    | 08/27/24  |          | founding member |
+| Jun Chen          | junch2002   | 08/27/24  |          | founding member | 
+| Bo Yang           | megumi-ybb  | 10/22/24  |          |                 |
+| Aaron Abkemeier   | ajabkemeier | 03/19/25  |          |                 |
+| Aaron King        | kingaa      | 07/04/25  |          |                 |
+| Kunyang He        | kunyanghe21 | 07/04/25  |          |                 |
+| Jonathan Terhorst | terhorst    | 08/19/25  |          |                 |
+| Giles Hooker      | gileshooker | 11/20/25  |          |                 |
 
 The current PyPI maintainers are Aaron Abkemeier and Ed Ionides.
 
