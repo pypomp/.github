@@ -4,9 +4,13 @@ This organization supports modeling and inference using partially observed Marko
 
 A core goal is the development of the [**pypomp** Python package](https://pypi.org/project/pypomp/). This seeks inspiration from the [**pomp** R package](https://kingaa.github.io/pomp/) while incorporating automatic differentiation and parallelization using [JAX](https://jax.readthedocs.io/en/latest/).
 
-### Current status
+### Current priorities
 
-This is a new project. The first goal is to provide a package supporting the methodology explored by Tan, K., Ionides, E. L. and Hooker, G. (2024), Accelerated inference for partially observed Markov processes using automatic differentiation, [arxiv:2407.03085](https://arxiv.org/abs/2407.03085), based on the code for this project at [zenodo.13356896](https://zenodo.org/doi/10.5281/zenodo.13356896)
+1. To support the methodology explored by Tan, K., Ionides, E. L. and Hooker, G. (2024), Accelerated inference for partially observed Markov processes using automatic differentiation, [arxiv:2407.03085](https://arxiv.org/abs/2407.03085), based on the code for this project at [zenodo.13356896](https://zenodo.org/doi/10.5281/zenodo.13356896). 
+
+2. To provide state-of-the-art alternative methods, including iterated filtering algorithms. Most methods have the plug-and-play property, i.e., they require the dynamic model to be specified by coding a simulator not a function to evaluate the transition density.
+
+3. To include tools for investigation of panel data, i.e., collections of time series.
 
 ### Expected users
 
@@ -20,7 +24,7 @@ This is a new project. The first goal is to provide a package supporting the met
 
 * This organization is collaborative. All interested individuals are welcome to contribute to existing projects or to propose new projects.
 
-* The organization is led by the core development team, guided by some [basic democratic rules](Governance.md).
+* The organization is led by the [core development team](Governance.md), guided by some [basic democratic rules](Governance.md).
 
 * Those wishing to contribute can either contact the core development team or simply propose a coding contribution via a pull request.
 
