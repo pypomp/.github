@@ -1,6 +1,6 @@
-# pypomp
+## Pypomp: Modeling and inference for partially observed Markov processes
 
-This organization supports modeling and inference using partially observed Markov process (POMP) models.
+The Pypomp organization supports data analysis using partially observed Markov process (POMP) models.
 
 A core goal is the development of the [**pypomp** Python package](https://pypi.org/project/pypomp/). This seeks inspiration from the [**pomp** R package](https://kingaa.github.io/pomp/) while incorporating automatic differentiation and parallelization using [JAX](https://jax.readthedocs.io/en/latest/).
 
