@@ -1,24 +1,21 @@
 ## Pypomp: Modeling and inference for partially observed Markov processes
 
-The Pypomp organization supports data analysis using partially observed Markov process (POMP) models.
+The Pypomp organization supports data analysis using partially observed Markov process (POMP) models. A core produce is the [**pypomp** Python package](https://pypi.org/project/pypomp/). This is supported by [documentation](https://pypomp.readthedocs.io), [tutorials](https://pypomp.github.io/tutorials), [extended quantitative tests](https://pypomp.github.io/quant), and other [case study repositories](https://github.com/orgs/pypomp/repositories). The Pypomp library draws inspiration from the [**pomp** R package](https://kingaa.github.io/pomp/) while incorporating automatic differentiation and parallelization for GPU and CPU using [JAX](https://jax.readthedocs.io/en/latest/).
 
-A core goal is the development of the [**pypomp** Python package](https://pypi.org/project/pypomp/). This seeks inspiration from the [**pomp** R package](https://kingaa.github.io/pomp/) while incorporating automatic differentiation and parallelization using [JAX](https://jax.readthedocs.io/en/latest/).
+### Pypomp capabilities
 
-### Current priorities
+1. Method development. Pypomp provides state-of-the-art methods, including iterated filtering algorithms and [automatically differentiable particle filters](https://arxiv.org/abs/2407.03085). Most methods have the plug-and-play property, i.e., they require the dynamic model to be specified by coding a simulator not a function to evaluate the transition density.
 
-1. To support the methodology explored by Tan, K., Ionides, E. L. and Hooker, G. (2024), Accelerated inference for partially observed Markov processes using automatic differentiation, [arxiv:2407.03085](https://arxiv.org/abs/2407.03085), based on the code for this project at [zenodo.13356896](https://zenodo.org/doi/10.5281/zenodo.13356896). 
+2. Panel data. Pypomp supports analysis of collections of time series, via PanelPOMP models.  
 
-2. To provide state-of-the-art alternative methods, including iterated filtering algorithms. Most methods have the plug-and-play property, i.e., they require the dynamic model to be specified by coding a simulator not a function to evaluate the transition density.
+3. Application to infectious disease dynamics. A tutorial provides an [introduction to infectious disease modeling and inference using Pypomp](https://pypomp.github.io/tutorials/sbied). There are also case studies using Pypomp to analyze [historical cholera transmission](https://pypomp.github.io/tutorials/dhaka/dhaka_tutorial.html) and a panel study of [historical measles dynamics](https://pypomp.github.io/tutorials/big_measles/big_measles_tutorial.html).
 
-3. To include tools for investigation of panel data, i.e., collections of time series.
+4. Application to ecological dynamics. A case study of [population dynamics for four interacting species](https://pypomp.github.io/Daphnia-tutorial/).
 
-### Expected users
+5. Other applications. Pypomp has been tested on a range of data analysis tasks in [final projects for a Master level time series class](https://ionides.github.io/531w26/final_project/index.html). 
 
-* Scientists wanting to perform data analysis on a dynamic system via partially observed Markov processes (POMP), also  called state-space models (SSM) or hidden Markov models (HMM).
+6. Other motivating examples can be found on the [**pomp** R package bibliography page](https://kingaa.github.io/pomp/biblio.html).
 
-* Many of the expected use cases and motivating examples of this package can be found on the [**pomp** R package bibliography page](https://kingaa.github.io/pomp/biblio.html).
-
-* Researchers wishing to develop novel inference methodology for POMP models.
 
 ### Contributors
 
